@@ -45,7 +45,7 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Midunas&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/streak-stats?username=Midunas&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🌐 Let's Connect
